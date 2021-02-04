@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">4.6_Pizzaservice</string>
+    <string name="developedBy">Developed by Joshua Enthöfer on 01.02.21</string>
+    <string name="salami">Salami</string>
+    <string name="tonno">Tonno</string>
+    <string name="margherita">Margherita</string>
+    <string name="deliveryAddress">Delivery address</string>
+    <string name="input">Input street and number</string>
+</resources>
